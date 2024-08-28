@@ -40,3 +40,6 @@ function calculateBMI(weight, height) {
 
 console.log(calculateBMI(52, 1.708))
 console.log(calculateBMI(-52, 1.708))
+
+//Do not modify the below lines
+module.exports { calculateBMI.js }
