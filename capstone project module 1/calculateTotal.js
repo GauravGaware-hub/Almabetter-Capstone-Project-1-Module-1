@@ -31,3 +31,6 @@ const cart = [
   ];
 
   console.log(calculateTotal(cart))
+
+//Do not modify the below lines
+module.exports { calculateTotal.js }
