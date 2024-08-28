@@ -24,3 +24,6 @@ function titleCase(sentence) {
 module.exports = { titleCase };
 
 console.log(titleCase("hi my name is gaurav and i am using visual studio code editor"))
+
+//Do not modify the below lines
+module.exports { titleCase.js }
