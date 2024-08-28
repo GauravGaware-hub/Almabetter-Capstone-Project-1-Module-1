@@ -6,3 +6,6 @@ function generateSlug(title) {
 }
 
 console.log(generateSlug( "AlmaBetter Web Dev"));
+
+//Do not modify the below lines
+module.exports { generateSlug.js }
