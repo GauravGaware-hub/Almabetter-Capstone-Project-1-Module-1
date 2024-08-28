@@ -15,3 +15,6 @@ function findMove(s) {
 
 console.log(findMove("++++"));  
 console.log(findMove("++-++")); 
+
+//Do not modify the below lines
+module.exports { countMove.js }
