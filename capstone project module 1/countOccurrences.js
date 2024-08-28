@@ -32,3 +32,6 @@ module.exports = { countOccurrences };
 console.log(countOccurrences("hello", "l"))
 console.log(countOccurrences('hello', 'a'))
 console.log(countOccurrences('hello', ''))
+
+//Do not modify the below lines
+module.exports { countOccurrences.js }
