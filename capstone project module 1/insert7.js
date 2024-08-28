@@ -24,3 +24,6 @@ function insert7(input) {
 
 console.log(insert7("Hello World and Universe!"));
 console.log(insert7("Full Stack Web Development")); 
+
+//Do not modify the below lines
+module.exports { insert7.js }
