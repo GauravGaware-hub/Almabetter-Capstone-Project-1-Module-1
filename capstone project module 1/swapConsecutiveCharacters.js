@@ -16,3 +16,6 @@ function swapConsecutiveCharacters(s) {
 
 console.log(swapConsecutiveCharacters("abcdef")); 
 console.log(swapConsecutiveCharacters("AlmaBetter")); 
+
+//Do not modify the below lines
+module.exports { swapConsecutiveCharacters.js }
