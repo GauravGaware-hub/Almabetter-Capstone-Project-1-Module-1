@@ -25,3 +25,6 @@ function shortestDistance(wordsDict, word1, word2) {
 
 console.log(shortestDistance(["practice", "makes", "perfect", "coding", "makes"], "coding", "makes")); 
 console.log(shortestDistance(["apple", "banana", "cherry", "apple", "date", "banana", "fig"], "apple", "fig")); 
+
+//Do not modify the below lines
+module.exports { shortestDistance.js }
