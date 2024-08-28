@@ -31,3 +31,6 @@ function countVowels(str) {
 
 
 console.log(countVowels("Almabetter"))
+
+//Do not modify the below lines
+module.exports { countVowels.js }
