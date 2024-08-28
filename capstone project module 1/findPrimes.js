@@ -27,3 +27,5 @@ function findPrimes(n) {
 console.log(findPrimes(20))
 
 
+//Do not modify the below lines
+module.exports { findPrimes.js }
