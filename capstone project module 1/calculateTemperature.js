@@ -29,3 +29,6 @@ function convertTemperature(temperature, unit) {
 
 console.log(convertTemperature(25, 'C'))
 console.log(convertTemperature(79, "b"))
+
+//Do not modify the below lines
+module.exports { calculateTemperature.js }
