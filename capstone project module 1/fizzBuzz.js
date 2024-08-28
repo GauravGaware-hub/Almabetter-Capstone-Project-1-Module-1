@@ -46,3 +46,5 @@ function fizzBuzz(n) {
 
 console.log(fizzBuzz(5))
 
+//Do not modify the below lines
+module.exports { fizzBuzz.js }
