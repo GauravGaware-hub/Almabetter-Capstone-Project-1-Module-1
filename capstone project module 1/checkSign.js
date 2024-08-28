@@ -27,3 +27,6 @@ function checkSign(a, b, c) {
 }
 
 console.log(checkSign(2, 5, 7))
+
+//Do not modify the below lines
+module.exports { checkSign.js }
