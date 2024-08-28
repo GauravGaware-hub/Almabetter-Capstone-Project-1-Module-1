@@ -7,3 +7,6 @@ function reverseString(string) {
 
 
 console.log(reverseString("AlmaBetter University"))
+
+//Do not modify the below lines
+module.exports { reverseString.js }
