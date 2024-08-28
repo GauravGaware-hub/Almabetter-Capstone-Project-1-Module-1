@@ -41,3 +41,6 @@ return {
 module.exports = { findLongestWord };
 
 console.log(findLongestWord("Coding is fun with fellow learners")) ;
+
+//Do not modify the below lines
+module.exports { findLongestWord.js }
