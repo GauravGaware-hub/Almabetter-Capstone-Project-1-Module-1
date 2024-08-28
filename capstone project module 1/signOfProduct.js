@@ -21,3 +21,6 @@ function signOfProduct(integers) {
 
 
 console.log(signOfProduct([2, -3, 0, 4]))
+
+//Do not modify the below lines
+module.exports { signOfProduct.js }
