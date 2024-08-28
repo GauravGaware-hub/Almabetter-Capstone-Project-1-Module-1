@@ -19,3 +19,6 @@ function calculateTip(billAmount, tipPercentage) {
 
 console.log(calculateTip(60.75, 25))
 console.log(calculateTip(60.75, 0.25))
+
+//Do not modify the below lines
+module.exports { calculateTip.js }
